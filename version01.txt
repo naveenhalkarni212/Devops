@@ -1,3 +1,5 @@
 This is first feature of our application
 this is second featur
-new linee
+new line
+
+Merge changes
